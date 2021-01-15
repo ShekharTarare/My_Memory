@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Memory</string>
+    <string name="moves">Moves: 0</string>
+    <string name="pairs">Pairs: 0/4</string>
+</resources>
